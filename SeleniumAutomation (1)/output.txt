@@ -1,0 +1,14 @@
+
+Sample Output:
+
+Part 1: Found element: Example Element Text
+
+Part 2: Product search and filter:
+- Brand filter applied: Brands starting with 'C'
+- Price filter applied: Greater than 2000
+- Customer ratings filter applied: Above 4
+
+Part 3: Cart and username validation:
+- Added multiple products to cart.
+- Verified total price: Total price is valid (e.g., 2500).
+- Username validation: Username is valid.
